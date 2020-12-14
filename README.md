@@ -2,7 +2,7 @@
 
 # Olá e seja bem vindo ao  meu repositório
 ## Conheça  o projeto Tabuada.
-![]()
+![](https://github.com/thiagodpaulla/tabuada.guithub.io/blob/main/tab.gif)
 https://thiagodpaulla.github.io/tabuada.guithub.io/.
 
 ## Estique mais um pouquinho e conheça um pouco mais do que ando fazendo:
